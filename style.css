@@ -2,7 +2,7 @@ body
 {
     background-image:url('wallpaper.jpg');
     background-repeat:no-repeat;
-    background-size:100%;
+    background-size:140%;
     text-align: center;
     color:white;
 }
@@ -24,11 +24,12 @@ section
 img
 {
     border:5px solid white;
-    width: 30%; 
+    width: 80%; 
     height: auto;
 }
 
 div
 {
     margin-bottom:20px;
+
 }
