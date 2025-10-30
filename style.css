@@ -1,9 +1,8 @@
 body
 {
-    background-image:url('wallpaper.jpg');
-    background-size: cover; 
-    background-repeat: no-repeat;
-    background-position: center;
+    background-image: url('wallpaper.jpg');
+    background-repeat: repeat-y;
+    background-position: top center;
     text-align: center;
     color:white;
 }
@@ -34,6 +33,7 @@ div
     margin-bottom:20px;
 
 }
+
 
 
 
